@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "category": "Salary",
+    "payee": "Employer",
+    "amount": 5000,
+    "account": "checking",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": 2,
+    "date": "2024-04-05",
+    "category": "Groceries",
+    "payee": "Supermarket",
+    "amount": -150,
+    "account": "checking",
+    "notes": "Weekly groceries"
+  },
+  {
+    "id": 3,
+    "date": "2024-04-10",
+    "category": "Utilities",
+    "payee": "Electric Company",
+    "amount": -80,
+    "account": "checking",
+    "notes": "Electricity bill"
+  },
+  {
+    "id": 4,
+    "date": "2024-04-15",
+    "category": "Dining",
+    "payee": "Restaurant",
+    "amount": -50,
+    "account": "checking",
+    "notes": "Dinner with friends"
+  },
+  {
+    "id": 5,
+    "date": "2024-04-20",
+    "category": "Transfer",
+    "payee": "Savings Account",
+    "amount": -500,
+    "account": "checking",
+    "notes": "Monthly savings transfer"
+  },
+  {
+    "id": 6,
+    "date": "2024-04-20",
+    "category": "Transfer",
+    "payee": "Checking Account",
+    "amount": 500,
+    "account": "savings",
+    "notes": "Monthly savings transfer"
+  },
+  {
+    "id": 7,
+    "date": "2024-04-22",
+    "category": "Shopping",
+    "payee": "Online Store",
+    "amount": -120,
+    "account": "credit_card",
+    "notes": "New clothes"
+  },
+  {
+    "id": 8,
+    "date": "2024-04-25",
+    "category": "Transportation",
+    "payee": "Gas Station",
+    "amount": -45,
+    "account": "checking",
+    "notes": "Fuel for car"
+  },
+  {
+    "id": 9,
+    "date": "2024-04-28",
+    "category": "Entertainment",
+    "payee": "Cinema",
+    "amount": -30,
+    "account": "credit_card",
+    "notes": "Movie night"
+  },
+  {
+    "id": 10,
+    "date": "2024-05-01",
+    "category": "Salary",
+    "payee": "Employer Inc.",
+    "amount": 5000,
+    "account": "checking",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": 11,
+    "date": "2024-05-03",
+    "category": "Health",
+    "payee": "Pharmacy",
+    "amount": -25,
+    "account": "checking",
+    "notes": "Prescription medication"
+  },
+  {
+    "id": 12,
+    "date": "2024-05-07",
+    "category": "Groceries",
+    "payee": "Local Market",
+    "amount": -80,
+    "account": "checking",
+    "notes": "Fresh produce"
+  },
+  {
+    "id": 13,
+    "date": "2024-05-10",
+    "category": "Utilities",
+    "payee": "Internet Provider",
+    "amount": -60,
+    "account": "checking",
+    "notes": "Monthly internet bill"
+  },
+  {
+    "id": 14,
+    "date": "2024-05-15",
+    "category": "Investment",
+    "payee": "Brokerage Account",
+    "amount": -1000,
+    "account": "savings",
+    "notes": "Stock purchase"
+  },
+  {
+    "id": 15,
+    "date": "2024-05-18",
+    "category": "Gift",
+    "payee": "Friend",
+    "amount": -50,
+    "account": "credit_card",
+    "notes": "Birthday present"
+  },
+  {
+    "id": 16,
+    "date": "2024-10-17",
+    "category": "food",
+    "payee": "oso sky",
+    "amount": -5000,
+    "account": "cash",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "date": "2024-10-17",
+    "category": "travel",
+    "payee": "John",
+    "amount": 500,
+    "account": "cash",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "date": "2024-10-18",
+    "category": "rent",
+    "payee": "Land Lord",
+    "amount": -2000,
+    "account": "savings",
+    "notes": ""
+  }
+]

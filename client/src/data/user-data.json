@@ -1,0 +1,11 @@
+{
+  "email": "user@example.com",
+  "avatar": "/path/to/avatar.jpg",
+  "firstName": "John",
+  "middleName": "Doe",
+  "lastName": "Smith",
+  "userRole": "ADMIN",
+  "onboardingStatus": true,
+  "knowYourMember": true,
+  "membershipStatus": "ACTIVE"
+}

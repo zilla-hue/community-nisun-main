@@ -1,0 +1,68 @@
+{
+  "employees": [
+    {
+      "name": "Olivia Evelyn",
+      "role": "CEO/President",
+      "image": "/api/placeholder/64/64",
+      "subordinates": [
+        {
+          "id": "1",
+          "name": "Maverick Ross",
+          "role": "Executive",
+          "image": "/api/placeholder/48/48",
+          "subordinates": []
+        },
+        {
+          "id": "3",
+          "name": "Matthew James",
+          "role": "Executive",
+          "image": "/api/placeholder/48/48",
+          "subordinates": [
+            {
+              "id": "31",
+              "name": "Luke Hobson",
+              "role": "Team Member",
+              "image": "/api/placeholder/48/48",
+              "subordinates": []
+            },
+            {
+              "id": "32",
+              "name": "David Elias",
+              "role": "Team Member",
+              "image": "/api/placeholder/48/48",
+              "subordinates": []
+            },
+            {
+              "id": "33",
+              "name": "Xen Yamato",
+              "role": "Team Member",
+              "image": "/api/placeholder/48/48",
+              "subordinates": []
+            },
+            {
+              "id": "34",
+              "name": "Ezra Son",
+              "role": "Team Member",
+              "image": "/api/placeholder/48/48",
+              "subordinates": []
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Katie Shawn",
+          "role": "Executive",
+          "image": "/api/placeholder/48/48",
+          "subordinates": []
+        },
+        {
+          "id": "1729275231803",
+          "name": "Tek Dakwak",
+          "role": "CTO",
+          "image": "/api/placeholder/48/48",
+          "subordinates": []
+        }
+      ]
+    }
+  ]
+}
